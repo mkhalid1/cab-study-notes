@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[目次](../README.md) · 次へ：[15分診断テスト](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[目次](../README.md) · 次へ：[15分診断テスト](diagnostic.md)
+<!-- /nav:top -->
 
 # CABとはどんな適性検査か
 
@@ -70,4 +72,6 @@ SE・プログラマー職の選考で出会うことが多く、SPIや玉手箱
 
 ---
 
-<!-- nav:bottom -->← 前へ：[目次](../README.md) | 次へ：[15分診断テスト](diagnostic.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[目次](../README.md) | 次へ：[15分診断テスト](diagnostic.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

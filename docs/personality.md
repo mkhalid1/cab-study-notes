@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[暗号](sections/angou.md) · 次へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[暗号](sections/angou.md) · 次へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md)
+<!-- /nav:top -->
 
 # 性格検査（OPQ）
 
@@ -46,4 +48,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[暗号](sections/angou.md) | 次へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[暗号](sections/angou.md) | 次へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

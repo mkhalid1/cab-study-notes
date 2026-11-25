@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[よくある質問](faq.md) · 次へ：[出典](sources.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[よくある質問](faq.md) · 次へ：[出典](sources.md)
+<!-- /nav:top -->
 
 # 用語集
 
@@ -30,4 +32,6 @@ CABの対策でよく出てくる言葉を、五十音順とアルファベッ�
 
 ---
 
-<!-- nav:bottom -->← 前へ：[よくある質問](faq.md) | 次へ：[出典](sources.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[よくある質問](faq.md) | 次へ：[出典](sources.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

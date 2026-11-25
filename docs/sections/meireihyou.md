@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ：[法則性](housokusei.md) · 次へ：[暗号](angou.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ：[法則性](housokusei.md) · 次へ：[暗号](angou.md)
+<!-- /nav:top -->
 
 # 命令表
 
@@ -113,4 +115,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[法則性](housokusei.md) | 次へ：[暗号](angou.md) → | [目次へ戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[法則性](housokusei.md) | 次へ：[暗号](angou.md) → | [目次へ戻る](../../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[性格検査（OPQ）](personality.md) · 次へ：[結果の出方と合格ライン](scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[性格検査（OPQ）](personality.md) · 次へ：[結果の出方と合格ライン](scoring.md)
+<!-- /nav:top -->
 
 # Web-CAB・紙のCAB・C-CABの違い
 
@@ -71,4 +73,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[性格検査（OPQ）](personality.md) | 次へ：[結果の出方と合格ライン](scoring.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[性格検査（OPQ）](personality.md) | 次へ：[結果の出方と合格ライン](scoring.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

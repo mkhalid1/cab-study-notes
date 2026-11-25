@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ：[暗算（四則逆算）](anzan.md) · 次へ：[命令表](meireihyou.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ：[暗算（四則逆算）](anzan.md) · 次へ：[命令表](meireihyou.md)
+<!-- /nav:top -->
 
 # 法則性
 
@@ -102,4 +104,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[暗算（四則逆算）](anzan.md) | 次へ：[命令表](meireihyou.md) → | [目次へ戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[暗算（四則逆算）](anzan.md) | 次へ：[命令表](meireihyou.md) → | [目次へ戻る](../../README.md#目次)
+<!-- /nav:bottom -->

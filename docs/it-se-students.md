@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[対策スケジュール：7日間と2日間](study-plans.md) · 次へ：[受検当日のチェックリスト](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[対策スケジュール：7日間と2日間](study-plans.md) · 次へ：[受検当日のチェックリスト](test-day-checklist.md)
+<!-- /nav:top -->
 
 # IT・SE志望の就活生へ
 
@@ -56,4 +58,6 @@ IT企業の選考では、CABのほかにSPIや玉手箱、GABなどを課す企
 
 ---
 
-<!-- nav:bottom -->← 前へ：[対策スケジュール：7日間と2日間](study-plans.md) | 次へ：[受検当日のチェックリスト](test-day-checklist.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[対策スケジュール：7日間と2日間](study-plans.md) | 次へ：[受検当日のチェックリスト](test-day-checklist.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

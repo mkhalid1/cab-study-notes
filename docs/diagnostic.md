@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[CABとは](test-overview.md) · 次へ：[暗算（四則逆算）](sections/anzan.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[CABとは](test-overview.md) · 次へ：[暗算（四則逆算）](sections/anzan.md)
+<!-- /nav:top -->
 
 # 15分診断テスト
 
@@ -125,4 +127,6 @@ A. 6.5 · B. 7.5 · C. 8 · D. 9.7 · E. 75
 
 ---
 
-<!-- nav:bottom -->← 前へ：[CABとは](test-overview.md) | 次へ：[暗算（四則逆算）](sections/anzan.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[CABとは](test-overview.md) | 次へ：[暗算（四則逆算）](sections/anzan.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

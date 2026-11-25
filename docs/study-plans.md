@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[時間配分](timing.md) · 次へ：[IT・SE志望の就活生へ](it-se-students.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[時間配分](timing.md) · 次へ：[IT・SE志望の就活生へ](it-se-students.md)
+<!-- /nav:top -->
 
 # 対策スケジュール：7日間と2日間
 
@@ -47,4 +49,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[時間配分](timing.md) | 次へ：[IT・SE志望の就活生へ](it-se-students.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[時間配分](timing.md) | 次へ：[IT・SE志望の就活生へ](it-se-students.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

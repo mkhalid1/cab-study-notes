@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ：[命令表](meireihyou.md) · 次へ：[性格検査（OPQ）](../personality.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ：[命令表](meireihyou.md) · 次へ：[性格検査（OPQ）](../personality.md)
+<!-- /nav:top -->
 
 # 暗号
 
@@ -112,4 +114,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[命令表](meireihyou.md) | 次へ：[性格検査（OPQ）](../personality.md) → | [目次へ戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[命令表](meireihyou.md) | 次へ：[性格検査（OPQ）](../personality.md) → | [目次へ戻る](../../README.md#目次)
+<!-- /nav:bottom -->

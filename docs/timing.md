@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[結果の出方と合格ライン](scoring.md) · 次へ：[対策スケジュール：7日間と2日間](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[結果の出方と合格ライン](scoring.md) · 次へ：[対策スケジュール：7日間と2日間](study-plans.md)
+<!-- /nav:top -->
 
 # 時間配分
 
@@ -41,4 +43,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[結果の出方と合格ライン](scoring.md) | 次へ：[対策スケジュール：7日間と2日間](study-plans.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[結果の出方と合格ライン](scoring.md) | 次へ：[対策スケジュール：7日間と2日間](study-plans.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

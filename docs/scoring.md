@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md) · 次へ：[時間配分](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md) · 次へ：[時間配分](timing.md)
+<!-- /nav:top -->
 
 # 結果の出方と合格ライン
 
@@ -51,4 +53,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md) | 次へ：[時間配分](timing.md) → | [目次へ戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[Web-CAB・紙のCAB・C-CABの違い](formats.md) | 次へ：[時間配分](timing.md) → | [目次へ戻る](../README.md#目次)
+<!-- /nav:bottom -->

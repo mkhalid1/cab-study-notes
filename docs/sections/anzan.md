@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ：[15分診断テスト](../diagnostic.md) · 次へ：[法則性](housokusei.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ：[15分診断テスト](../diagnostic.md) · 次へ：[法則性](housokusei.md)
+<!-- /nav:top -->
 
 # 暗算（四則逆算）
 
@@ -108,4 +110,6 @@ A. 18 · B. 27 · C. 30 · D. 39 · E. 42
 
 ---
 
-<!-- nav:bottom -->← 前へ：[15分診断テスト](../diagnostic.md) | 次へ：[法則性](housokusei.md) → | [目次へ戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[15分診断テスト](../diagnostic.md) | 次へ：[法則性](housokusei.md) → | [目次へ戻る](../../README.md#目次)
+<!-- /nav:bottom -->
