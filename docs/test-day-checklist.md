@@ -42,7 +42,7 @@
 
 ## 最後の練習として
 
-受検の前日か前々日に、時間を計って通しで解いておくと、本番のペースがつかめます。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)は4科目で全179問・53分です。
+受検の前日か前々日に、時間を計って通しで解いておくと、本番のペースがつかめます。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)は4科目で全179問・53分です。
 
 ---
 

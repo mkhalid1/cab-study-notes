@@ -45,7 +45,7 @@
 
 受検者が自分の点数を受け取れるかどうかは、日本SHLの公式サイトには書かれていません。公式ページの結果の使い方は企業向けのものです。日本SHLの説明にある「内定者へのフィードバック」のように、企業の判断で内容の一部が伝えられることはあります。
 
-自分の実力を数字で知りたいときは、模擬テストを使いましょう。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)は全179問で、どの科目が弱いかを確かめられます。
+自分の実力を数字で知りたいときは、模擬テストを使いましょう。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)は全179問で、どの科目が弱いかを確かめられます。
 
 ## 結果の使い回し
 

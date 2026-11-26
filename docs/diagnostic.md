@@ -123,7 +123,7 @@ A. 6.5 · B. 7.5 · C. 8 · D. 9.7 · E. 75
 - [命令表](sections/meireihyou.md)
 - [暗号](sections/angou.md)
 
-本番に近い長さで力を測りたいときは、[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)も使えます。
+本番に近い長さで力を測りたいときは、[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)も使えます。
 
 ---
 

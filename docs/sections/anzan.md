@@ -92,7 +92,7 @@ A. 18 · B. 27 · C. 30 · D. 39 · E. 42
 
 </details>
 
-もっと解きたい人へ：PrepClubsの無料CAB形式模擬テストは、暗算・法則性・命令表・暗号の4科目で全179問あり、全問に解説が付いています。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)
+もっと解きたい人へ：PrepClubsの無料CAB形式模擬テストは、暗算・法則性・命令表・暗号の4科目で全179問あり、全問に解説が付いています。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)
 
 ## 採点表
 
@@ -106,7 +106,7 @@ A. 18 · B. 27 · C. 30 · D. 39 · E. 42
 
 ## 次のステップ
 
-計算科目は、慣れるほど確実に速くなります。時間を計って解くと自分のペースがわかるので、[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)で通しの練習をしてから、ミスした型をこのページで復習してください。
+計算科目は、慣れるほど確実に速くなります。時間を計って解くと自分のペースがわかるので、[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)で通しの練習をしてから、ミスした型をこのページで復習してください。
 
 ---
 

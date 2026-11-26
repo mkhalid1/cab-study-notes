@@ -86,7 +86,7 @@
 
 </details>
 
-もっと解きたい人へ：PrepClubsの無料CAB形式模擬テストは、暗算・法則性・命令表・暗号の4科目で全179問あり、全問に解説が付いています。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)
+もっと解きたい人へ：PrepClubsの無料CAB形式模擬テストは、暗算・法則性・命令表・暗号の4科目で全179問あり、全問に解説が付いています。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)
 
 ## 採点表
 
@@ -100,7 +100,7 @@
 
 ## 次のステップ
 
-法則性は、問題数をこなすほど「よくある規則」が頭に入ります。時間を計った通しの練習は[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)でできます。外した問題は、落としやすいポイントのどれに当たるかをメモしておきましょう。
+法則性は、問題数をこなすほど「よくある規則」が頭に入ります。時間を計った通しの練習は[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)でできます。外した問題は、落としやすいポイントのどれに当たるかをメモしておきましょう。
 
 ---
 

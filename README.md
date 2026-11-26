@@ -2,7 +2,7 @@
 
 日本エス・エイチ・エル（日本SHL）の適性検査CABを受ける人のための、無料の対策ガイドです。暗算（四則逆算）・法則性・命令表・暗号の4科目それぞれの解き方の手順、図付きのオリジナル練習問題28問と全問の解説、Web-CAB・紙のCAB・C-CABの違い、結果の扱われ方、7日間と2日間の対策スケジュールをまとめました。SE・プログラマーなどIT職を目指す就活生向けのページもあります。検査に関する事実は日本SHLの公式ページで確認し、公式に公開されていない数字は非公式と明記しています（[出典](docs/sources.md)）。
 
-まず実力を知りたい人は、PrepClubsの[CAB形式の無料模擬テスト](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)（4科目・全179問）か、このリポジトリの短い[15分診断テスト](docs/diagnostic.md)から始めてください。
+まず実力を知りたい人は、PrepClubsの[CAB形式の無料模擬テスト](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)（4科目・全179問）か、このリポジトリの短い[15分診断テスト](docs/diagnostic.md)から始めてください。
 
 ## ここから始める
 
@@ -177,7 +177,7 @@
 - **答えを見る前に選ぶ。** 答えは「答えと解説」を開くと表示されます。先に自分の答えを決めてから開いてください。
 - **正解した問題の解説も読む。** 解説には、近い選択肢がなぜ違うのかも書いてあります。そこに一番の学びがあります。
 - **ミスを記録する。** 間違えた問題は、ミスの種類ごとにメモします。やり方は[対策スケジュール](docs/study-plans.md#ミスの記録のしかた)にあります。
-- **時間を計って練習する。** このノートは解き方を教えます。ペースは、[PrepClubsの無料模擬テスト](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)のような時間制限つきの通し練習で身につけます。
+- **時間を計って練習する。** このノートは解き方を教えます。ペースは、[PrepClubsの無料模擬テスト](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)のような時間制限つきの通し練習で身につけます。
 - **クローンやフォークも自由です。** 自分用のメモを書き込みたいときにどうぞ。GitBookの形式にも対応しています（[SUMMARY.md](SUMMARY.md)）。
 
 ## 練習問題について

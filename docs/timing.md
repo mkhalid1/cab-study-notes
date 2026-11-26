@@ -39,7 +39,7 @@
 
 - **最初は時間を気にせず、型を覚える。** 各科目のページの「解き方の手順」どおりに、正確に解けるようにします。
 - **次に1問ずつ時間を計る。** 目標の秒数に収まらない問題の型を書き出し、手順のどこで時間を使っているかを確認します。
-- **最後に通しで解く。** 科目ごとの時間を区切って、通しで解く練習をします。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)は4科目で全179問・53分なので、本番に近い感覚でペースを確かめられます。
+- **最後に通しで解く。** 科目ごとの時間を区切って、通しで解く練習をします。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)は4科目で全179問・53分なので、本番に近い感覚でペースを確かめられます。
 
 ---
 

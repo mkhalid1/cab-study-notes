@@ -17,7 +17,7 @@
 | 3日目 | 2番目に弱かった科目のページで同じことをする | 60分 |
 | 4日目 | 残りの2科目のページで同じことをする | 60分 |
 | 5日目 | [時間配分](timing.md)を読み、4科目の練習問題を時間を計って解き直す。目標の秒数に収まらなかった問題を書き出す | 45分 |
-| 6日目 | 時間を計って模擬テストを通しで解く。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)なら4科目を本番に近い形で解ける | 60分 |
+| 6日目 | 時間を計って模擬テストを通しで解く。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)なら4科目を本番に近い形で解ける | 60分 |
 | 7日目 | 6日目に間違えた問題を、科目ページの「落としやすいポイント」と照らし合わせて復習する。[受検当日のチェックリスト](test-day-checklist.md)を確認する | 45分 |
 
 ## 2日間プラン

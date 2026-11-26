@@ -44,7 +44,7 @@
 
 ## Web-CAB対策におすすめのアプリや模擬試験はありますか
 
-日本SHLの公式サイトには、受検者向けの練習アプリや模擬試験の案内は見当たりません（2026年11月25日確認）。無料で練習するなら、このリポジトリの[15分診断テスト](diagnostic.md)と各科目の練習問題のほか、[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)で4科目・全179問を通して解けます。どの教材を使う場合も、本物の問題ではなく、形式を似せて作った練習問題であることは覚えておいてください。
+日本SHLの公式サイトには、受検者向けの練習アプリや模擬試験の案内は見当たりません（2026年11月25日確認）。無料で練習するなら、このリポジトリの[15分診断テスト](diagnostic.md)と各科目の練習問題のほか、[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)で4科目・全179問を通して解けます。どの教材を使う場合も、本物の問題ではなく、形式を似せて作った練習問題であることは覚えておいてください。
 
 ---
 

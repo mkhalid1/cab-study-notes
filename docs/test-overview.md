@@ -68,7 +68,7 @@ SE・プログラマー職の選考で出会うことが多く、SPIや玉手箱
 
 ## 本番に近い形で練習する
 
-形式に慣れるには、時間を計って通しで解くのが一番です。PrepClubsの[CAB形式の無料模擬テスト](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)は、暗算・法則性・命令表・暗号の4科目を通しで解けます。まずはこのリポジトリの[15分診断テスト](diagnostic.md)で、どの科目から手をつけるか決めましょう。
+形式に慣れるには、時間を計って通しで解くのが一番です。PrepClubsの[CAB形式の無料模擬テスト](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)は、暗算・法則性・命令表・暗号の4科目を通しで解けます。まずはこのリポジトリの[15分診断テスト](diagnostic.md)で、どの科目から手をつけるか決めましょう。
 
 ---
 

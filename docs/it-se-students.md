@@ -54,7 +54,7 @@ IT企業の選考では、CABのほかにSPIや玉手箱、GABなどを課す企
 
 1. [15分診断テスト](diagnostic.md)で苦手な科目を見つける。
 2. 受検の締切から逆算して、[7日間プランか2日間プラン](study-plans.md)を選ぶ。
-3. 時間を計った通しの練習を1回はしておく。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cab)で4科目を通して解けます。
+3. 時間を計った通しの練習を1回はしておく。[CAB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/cab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=srubdn&utm_content=cab)で4科目を通して解けます。
 
 ---
 
